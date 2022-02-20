@@ -1,0 +1,25 @@
+html {
+	background-color: black;
+}
+
+#gp_admin_box {
+	box-shadow: none;
+	border-style: groove;
+}
+
+#editor_toggle_width,
+#admincontent_inner,
+#admin_breadcrumbs,
+#ckeditor_wrap,
+#ckeditor_tabs,
+#gp_admin_box,
+#panel_search,
+#theme_editor,
+#cktoggle,
+.message,
+.cke_dialog,
+.color_handle,
+.colorpicker-element {
+	filter: invert();
+}
+
